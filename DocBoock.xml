@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xml:id="simple_book" xmlns="http://docbook.org/ns/docbook" version="5.0">
+    <title>Very simple book</title>
+    <chapter xml:id="Краткое описание проекта">
+        <title>Описание проекта</title>
+        <para>Данный проект является RPG игрой</para>
+        <para>Игра имеет онлайн составляющую</para>
+        <para>Игра не является кроссплатформенной</para>
+        <para>Вдохновление для данной игры пришло после прочтения книге в жарне фентези</para>
+        <para>Данная игра будет распространяться по платной подписке</para>
+    </chapter>
+    <chapter xml:id="Вторая часть проекта">
+        <title>Вторая часть</title>
+    </chapter>
+    <chapter xml:id="Третья часть проекта">
+        <title>Третья часть</title>
+    </chapter>
+</book>
