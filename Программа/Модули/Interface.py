@@ -5,7 +5,7 @@ class Interface:
         """
         ...
 
-    def renderBackground(self, old_background):
+    def renderBackground(self, background_image):
         """
             Отображает задний фон локации
         """
