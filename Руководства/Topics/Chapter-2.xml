@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-03-24T01:47:19.301+03:00" lasteditedby="mezzano" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Взаимодействие с миром</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Взаимодействие с миром</para>
+    </header>
+    <para styleclass="Normal">Данный раздел расскажет как взаимодействовать с окружающим миром и что Вы сможете встретить во время путешествия</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter2-1">Объекты в мире</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-2-2">Полезные советы</link></para>
+  </body>
+</topic>

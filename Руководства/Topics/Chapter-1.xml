@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-03-24T01:45:44.947Z" lasteditedby="mezzano" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Управление главным персонажем</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Управление главным персонажем</para>
+    </header>
+    <para styleclass="Normal">Данный раздел поможет Вам ознакомиться с основными правилами управления главным героем</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-1-1">Управление</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-1-2">Атака</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-1-3">Перекаты</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-1-4">Заклинания</link></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

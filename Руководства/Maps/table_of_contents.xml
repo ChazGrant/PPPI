@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="45373058562003" build="ALL" modified="2024-03-24T01:45:20.619Z" icon="0" href="Chapter-1">
+    <caption translate="true">Управление главным персонажем</caption>
+    <topicref type="topic" id="453749000267632" build="ALL" modified="2024-03-24T01:45:34.132Z" icon="0" href="Chapter-1-1">
+      <caption translate="true">Управление</caption>
+    </topicref>
+    <topicref type="topic" id="453749435524787" build="ALL" modified="2024-03-24T01:45:30.378Z" icon="0" href="Chapter-1-2">
+      <caption translate="true">Атака</caption>
+    </topicref>
+    <topicref type="topic" id="45373234326926" build="ALL" modified="2024-03-24T01:45:39.492Z" icon="0" href="Chapter-1-3">
+      <caption translate="true">Перекаты</caption>
+    </topicref>
+    <topicref type="topic" id="453750505995845" build="ALL" modified="2024-03-24T01:45:45.011Z" icon="0" href="Chapter-1-4">
+      <caption translate="true">Заклинания</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453752508118646" build="ALL" modified="2024-03-24T01:15:20.844Z" icon="0" href="Chapter-2">
+    <caption translate="true">Взаимодействие с миром</caption>
+    <topicref type="topic" id="453748778308992" build="ALL" modified="2024-03-24T01:45:50.940Z" icon="0" href="Chapter2-1">
+      <caption translate="true">Объекты в мире</caption>
+    </topicref>
+    <topicref type="topic" id="453751269623842" build="ALL" modified="2024-03-24T01:45:55.832Z" icon="0" href="Chapter-2-2">
+      <caption translate="true">Полезные советы</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453751971588197" build="ALL" modified="2024-03-24T01:45:14.418Z" icon="0" href="Chapter-3">
+    <caption translate="true">Онлайн игра</caption>
+    <topicref type="topic" id="453752364377163" build="ALL" modified="2024-03-24T01:46:12.416Z" icon="0" href="Chapter-3-1">
+      <caption translate="true">Игрок против игрока</caption>
+    </topicref>
+    <topicref type="topic" id="453749455803622" build="ALL" modified="2024-03-24T01:46:16.694Z" icon="0" href="Chapter-3-2">
+      <caption translate="true">Игрок против ИИ</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="45373604837069" build="ALL" modified="2024-03-24T01:45:03.619Z" icon="0" href="Chapter-4">
+    <caption translate="true">Сюжетное повествование</caption>
+    <topicref type="topic" id="45374271734760" build="ALL" modified="2024-03-24T01:46:22.564Z" icon="0" href="Chapter-4-1">
+      <caption translate="true">Предыстория</caption>
+    </topicref>
+    <topicref type="topic" id="453750361907991" build="ALL" modified="2024-03-24T01:46:27.296Z" icon="0" href="Chapter-4-2">
+      <caption translate="true">Вступление</caption>
+    </topicref>
+  </topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-03-24T01:52:39.897+03:00" lasteditedby="mezzano" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Заклинания</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Заклинания</para>
+    </header>
+    <para styleclass="Normal">Заклинания имеют 3 типа: чудеса, чары и пиромантия. </para>
+    <para styleclass="Normal">Каждое заклинание расходует определённое количество очков концентрации и стойкости. </para>
+    <para styleclass="Normal">Очки концентрации не восстанавливаются</para>
+  </body>
+</topic>

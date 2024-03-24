@@ -1,3 +1,11 @@
+class Player:
+    ...
+
+
+class Object:
+    ...
+
+
 class World:
     def acquireAchievemnt(self):
         """

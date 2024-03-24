@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-03-24T01:47:40.034+03:00" lasteditedby="mezzano" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Взаимодействие с миром</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Сюжетное повествование</para>
+    </header>
+    <para styleclass="Normal">Данный раздел погрузит Вас в предысторию данного мира, а также расскажет вводную историю</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-4-1">Предыстория</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-4-2">Вступление</link></para>
+  </body>
+</topic>
